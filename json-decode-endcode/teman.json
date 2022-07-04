@@ -1,0 +1,46 @@
+[
+
+    {
+     "nama" : "Herlambang",
+     "umur" : 18,
+     "pekerjaan" : "Pelukis",
+     "skill" : ["Mendesain", "Mengecat"],
+     "alamat" : {
+
+          "kota" : "Depok",
+          "provinsi" : "Jawa Barat",
+          "negara" : "Indonesia"
+
+     }
+    },
+
+    {
+        "nama" : "Jajang",
+        "umur" : 20,
+        "pekerjaan" : "Programmer",
+        "skill" : ["css", "html"],
+        "alamat" : {
+   
+             "kota" : "Bandung",
+             "provinsi" : "Jawa Barat",
+             "negara" : "Indonesia"
+   
+        }
+       },
+
+       {
+        "nama" : "Mahdi",
+        "umur" : 20,
+        "pekerjaan" : "Fotographer",
+        "skill" : ["kameramen", "desain graphics"],
+        "alamat" : {
+   
+             "kota" : "Cianjur",
+             "provinsi" : "Jawa Barat",
+             "negara" : "Indonesia"
+   
+        }
+       }
+
+
+]
